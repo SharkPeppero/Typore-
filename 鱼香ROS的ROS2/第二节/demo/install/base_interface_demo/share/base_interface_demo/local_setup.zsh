@@ -1,0 +1,1 @@
+/home/xu/Typore笔记/鱼香ROS的ROS2/第二节/demo/build/base_interface_demo/ament_cmake_environment_hooks/local_setup.zsh

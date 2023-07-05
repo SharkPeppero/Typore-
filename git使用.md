@@ -23,9 +23,13 @@ git config --global http.sslverify false  # 禁用SSL证书验证
 
 ### github的token令牌：
 
-邮箱账号：1142437740@qq.com
+邮箱账号：
 
-Token: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
+1142437740@qq.com
+
+Token:
+
+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
 
 
 
@@ -39,11 +43,27 @@ git commit -m "xxxx"
 
 git branch -M main
 
-git remote add origin https://xxxx
+git remote add origin https://github.com/SharkPeppero/Typore-.git
 
 git push -u origin main
+git push -u origin +main
 
 git status
+
+//-----------修改上传-----------
+git status
+git add 文件
+git commit -m "日志"
+git branch -M 分支名称
+git push
+
+
+您的**无线账号**为：jianbin.xu，
+
+电脑**登录账号**为：jianbin.xu，
+
+**企业邮箱账号**：jianbin.xu@zhangmen.com；
+以上账户的**密码全部统一**为：T2A1hwys。
 ```
 
 

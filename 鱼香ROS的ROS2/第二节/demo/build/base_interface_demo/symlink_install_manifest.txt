@@ -1,0 +1,15 @@
+/home/xu/Typore笔记/鱼香ROS的ROS2/第二节/demo/install/base_interface_demo/share/ament_index/resource_index/package_run_dependencies/base_interface_demo
+/home/xu/Typore笔记/鱼香ROS的ROS2/第二节/demo/install/base_interface_demo/share/ament_index/resource_index/parent_prefix_path/base_interface_demo
+/home/xu/Typore笔记/鱼香ROS的ROS2/第二节/demo/install/base_interface_demo/share/base_interface_demo/environment/ament_prefix_path.sh
+/home/xu/Typore笔记/鱼香ROS的ROS2/第二节/demo/install/base_interface_demo/share/base_interface_demo/environment/ament_prefix_path.dsv
+/home/xu/Typore笔记/鱼香ROS的ROS2/第二节/demo/install/base_interface_demo/share/base_interface_demo/environment/path.sh
+/home/xu/Typore笔记/鱼香ROS的ROS2/第二节/demo/install/base_interface_demo/share/base_interface_demo/environment/path.dsv
+/home/xu/Typore笔记/鱼香ROS的ROS2/第二节/demo/install/base_interface_demo/share/base_interface_demo/local_setup.bash
+/home/xu/Typore笔记/鱼香ROS的ROS2/第二节/demo/install/base_interface_demo/share/base_interface_demo/local_setup.sh
+/home/xu/Typore笔记/鱼香ROS的ROS2/第二节/demo/install/base_interface_demo/share/base_interface_demo/local_setup.zsh
+/home/xu/Typore笔记/鱼香ROS的ROS2/第二节/demo/install/base_interface_demo/share/base_interface_demo/local_setup.dsv
+/home/xu/Typore笔记/鱼香ROS的ROS2/第二节/demo/install/base_interface_demo/share/base_interface_demo/package.dsv
+/home/xu/Typore笔记/鱼香ROS的ROS2/第二节/demo/install/base_interface_demo/share/ament_index/resource_index/packages/base_interface_demo
+/home/xu/Typore笔记/鱼香ROS的ROS2/第二节/demo/install/base_interface_demo/share/base_interface_demo/cmake/base_interface_demoConfig.cmake
+/home/xu/Typore笔记/鱼香ROS的ROS2/第二节/demo/install/base_interface_demo/share/base_interface_demo/cmake/base_interface_demoConfig-version.cmake
+/home/xu/Typore笔记/鱼香ROS的ROS2/第二节/demo/install/base_interface_demo/share/base_interface_demo/package.xml

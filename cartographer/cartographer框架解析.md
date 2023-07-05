@@ -80,6 +80,10 @@ cout << "tie student-" << id3 << "  \t " << name3 << endl;
 
 ​		内存泄漏，自己堆区开辟的内存，用完没有释放，（delet，nullptr）；
 
+
+
+
+
 ​			
 
 ​	

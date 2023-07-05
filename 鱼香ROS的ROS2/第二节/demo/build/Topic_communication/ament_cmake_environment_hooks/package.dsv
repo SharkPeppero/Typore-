@@ -1,0 +1,4 @@
+source;share/Topic_communication/local_setup.bash
+source;share/Topic_communication/local_setup.dsv
+source;share/Topic_communication/local_setup.sh
+source;share/Topic_communication/local_setup.zsh
